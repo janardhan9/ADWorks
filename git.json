@@ -1,0 +1,52 @@
+[
+    {
+        "para_relv_url" : "janardhan9/ADWorks/refs/heads/main/AdventureWorks_Calendar.csv",
+        "para_sink_folder": "AdventureWorks_Calendar",
+        "para_sink_file": "calender.csv"
+    },
+    {
+        "para_relv_url" : "janardhan9/ADWorks/raw/refs/heads/main/AdventureWorks_Customers.csv",
+        "para_sink_folder": "AdventureWorks_Customers",
+        "para_sink_file": "Customers.csv"
+    },
+    {
+        "para_relv_url" : "janardhan9/ADWorks/refs/heads/main/AdventureWorks_Product_Categories.csv",
+        "para_sink_folder": "AdventureWorks_Product_Categories",
+        "para_sink_file": "Product_Categories.csv"
+    },
+    {
+        "para_relv_url" : "janardhan9/ADWorks/refs/heads/main/AdventureWorks_Product_Subcategories.csv",
+        "para_sink_folder": "AdventureWorks_Product_Subcategories",
+        "para_sink_file": "AdventureWorks_Product_Subcategories.csv"
+    },
+    {
+        "para_relv_url" : "janardhan9/ADWorks/refs/heads/main/AdventureWorks_Products.csv",
+        "para_sink_folder": "AdventureWorks_Productss",
+        "para_sink_file": "AAdventureWorks_Products.csv"
+    },
+    {
+        "para_relv_url" : "janardhan9/ADWorks/refs/heads/main/AdventureWorks_Returns.csv",
+        "para_sink_folder": "AdventureWorks_Returns",
+        "para_sink_file": "AdventureWorks_Returns.csv"
+    },
+    {
+        "para_relv_url" : "janardhan9/ADWorks/refs/heads/main/AdventureWorks_Sales_2015.csv",
+        "para_sink_folder": "AdventureWorks_Sales_2015",
+        "para_sink_file": "AdventureWorks_Sales_2015.csv"
+    },
+    {
+        "para_relv_url" : "janardhan9/ADWorks/refs/heads/main/AdventureWorks_Sales_2016.csv",
+        "para_sink_folder": "AdventureWorks_Sales_2016",
+        "para_sink_file": "AdventureWorks_Sales_2016.csv"
+    },
+    {
+        "para_relv_url" : "janardhan9/ADWorks/refs/heads/main/AdventureWorks_Sales_2017.csv",
+        "para_sink_folder": "AdventureWorks_Sales_2017",
+        "para_sink_file": "AdventureWorks_Sales_2017.csv"
+    },
+    {
+        "para_relv_url" : "janardhan9/ADWorks/refs/heads/main/AdventureWorks_Territories.csv",
+        "para_sink_folder": "AdventureWorks_Territories",
+        "para_sink_file": "AdventureWorks_Territories.csv"
+    }
+]

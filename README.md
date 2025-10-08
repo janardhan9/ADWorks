@@ -8,7 +8,10 @@
 
 <img width="1263" height="660" alt="image" src="https://github.com/user-attachments/assets/df9435de-ded5-4b0a-ad9f-d0e78b6b2dea" />
 
+<img width="806" height="477" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/3a025417-f7bf-4cf2-8f06-8c598000d6b7" />
+<img width="1258" height="643" alt="Screenshot 2025-10-08 133322" src="https://github.com/user-attachments/assets/13ac0e4d-287c-48a0-a573-7d482116ea8d" />
 
+<img width="1267" height="642" alt="Screenshot 2025-10-08 133257" src="https://github.com/user-attachments/assets/50056b71-36c4-4e29-8924-7d2105e80e22" />
 
 Azure Data Engineering Project Documentation
 Objective

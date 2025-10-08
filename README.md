@@ -1,3 +1,9 @@
+<img width="1907" height="1014" alt="image" src="https://github.com/user-attachments/assets/3317401f-939d-4852-af43-c54310b7261e" />
+
+
+
+
+
 Azure Data Engineering Project Documentation
 Objective
 To develop an end-to-end Azure data engineering solution using industry-standard tools such as Azure Data Factory, Azure Databricks, Azure Synapse Analytics, and Power BI. 
